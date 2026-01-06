@@ -41,7 +41,7 @@ The Marketing Director needed to know **who** was leaving and **why**.
 
 ---
 
-## Setup Instructions
+### 🔧 Setup Instructions
 1. Clone the repo.
 2. Install dependencies: `pip install -r requirements.txt`
 3. **Download Data:**
