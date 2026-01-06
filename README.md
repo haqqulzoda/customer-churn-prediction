@@ -43,7 +43,7 @@ The Marketing Director needed to know **who** was leaving and **why**.
 
 ### 📂 Project Structure
 ```text
-├── data/                   # Dataset (Not uploaded to GitHub)
+├── data/                   # Dataset (Uploaded to GitHub for reference)
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 ├── models/                 # Saved models & feature columns
 │   ├── churn_rf_model.joblib
